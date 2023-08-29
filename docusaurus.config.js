@@ -39,7 +39,7 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          routeBasePath: '/lessons', // Serve the docs at the site's root
+          routeBasePath: '/learn', // Serve the docs at the site's root
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
         
@@ -60,19 +60,21 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      colorMode: {
+        defaultMode: 'dark',
+        disableSwitch: true,
+        respectPrefersColorScheme: false,
+      },
+      image: 'img/omd-logo.png',
       navbar: {
-        title: 'OHMYDOG',
-        logo: {
-          alt: 'OhMyDog Rocks',
-          src: 'img/omd-logo.png',
-        },
+        title: 'OhMyDog',
+        hideOnScroll: true,
         items: [
           {
             type: 'docSidebar',
             sidebarId: 'lessonsSidebar',
             position: 'left',
-            label: 'Lessons',
+            label: 'Learn',
           }
         ],
       },

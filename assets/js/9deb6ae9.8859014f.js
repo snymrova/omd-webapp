@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunklessons=self.webpackChunklessons||[]).push([[880],{8166:s=>{s.exports=JSON.parse('{"label":"hello","permalink":"/omd-webapp/blog/tags/hello","allTagsPath":"/omd-webapp/blog/tags","count":2}')}}]);

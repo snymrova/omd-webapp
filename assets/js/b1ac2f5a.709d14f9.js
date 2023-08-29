@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklessons=self.webpackChunklessons||[]).push([[5356],{7076:s=>{s.exports=JSON.parse('{"permalink":"/omd-webapp/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

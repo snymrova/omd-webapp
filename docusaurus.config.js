@@ -39,7 +39,7 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          routeBasePath: '/learn', // Serve the docs at the site's root
+          routeBasePath: '/', // Serve the docs at the site's root
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
         
@@ -62,7 +62,7 @@ const config = {
       // Replace with your project's social card
       colorMode: {
         defaultMode: 'dark',
-        disableSwitch: true,
+        disableSwitch: false,
         respectPrefersColorScheme: false,
       },
       image: 'img/omd-logo.png',

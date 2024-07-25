@@ -3,43 +3,68 @@ sidebar_position: 1
 sidebar_label: Welcome
 slug: /
 ---
-# **Welcome to OhMyDog Educational Portal!**
 
-![Dog with Books](https://cdn.midjourney.com/8dcd1ad3-d765-4c22-a131-47d783ee19de/0_0.png)
+# Welcome to the OhMyDog Educational Portal
 
-**Dear Pet Parents and Animal Lovers,**
+![OhMyDog Rocks Banner](../static/img/OhMyDog-Educational-Portal-Welcome.png)
 
-We are delighted to welcome you to our educational portal dedicated to enriching your knowledge about canine behavior, nutrition, and veterinary care. As passionate advocates for the well-being of our four-legged companions, we strive to provide you with comprehensive and reliable information to help you become the best pet parent possible.
+Welcome to the OhMyDog Educational Portal, your go-to resource for everything you need to know about your dog's health and well-being. We understand that being a dog parent is both a joy and a responsibility, and we're here to support you every step of the way.
 
-## **Unlocking the Secrets of Canine Behavior**
+## What You'll Find Here
 
-Understanding your furry friend's behavior is key to nurturing a strong and harmonious bond. Our in-depth articles and guides will delve into the complexities of canine communication, addressing common behavior issues, and equipping you with positive training techniques to foster positive behavior.
+Our portal is designed to provide you with comprehensive, easy-to-understand information on a wide range of topics related to your dog's health and behavior. Whether you're dealing with a specific issue or just looking to expand your knowledge, we've got you covered.
 
-## **Fueling Your Pet's Health with Proper Nutrition**
+## Topics We Cover
+### Health Issues
+![OhMyDog Rocks Banner](../static/img/OhMyDog-Educational-Portal-Welcome-Health-Issues.png)
+- Digestive Problems (vomiting, loose stool, etc.)
+- Skin Allergies
+- Obesity
+- Joint Health
+- Kidney Issues
+- Diabetes
+- Tumors and Cancers
+- Liver Problems
+- Tick Fever
+- Appetite Issues
 
-A healthy diet plays a vital role in ensuring your pet's overall well-being. Our nutrition-related content will guide you in making informed decisions about your pet's diet, offering insights into balanced meal planning, dietary requirements, and special considerations for different life stages.
+### Behavioral Challenges
+![OhMyDog Rocks Banner](../static/img/OhMyDog-Educational-Portal-Welcome-Behavior-Issues.png)
+- Puppy Training (biting, pee/poop training, hyperactivity)
+- Adult Dog Behavior (separation anxiety, leash pulling, aggression, etc.)
 
-## **Ensuring Optimal Veterinary Care for Your Beloved Companion**
+### Gut Health with Pro Belly
+![OhMyDog Rocks Banner](../static/img/OhMyDog-Educational-Portal-Welcome-Probelly.png)
+- Importance of Gut Health
+- How Pro Belly Works
+- 90 Days Gut Challenge
 
-The health and happiness of your pet are our top priorities. Our veterinary-related content will cover preventive care, common health concerns, understanding symptoms, and when it's essential to seek professional medical attention.
+### Personal Care Plans
+- Custom Care Plans for Your Dog
+- How to Enroll
+- Topics Covered
 
-## **Explore and Learn at Your Own Pace**
+### Community and Support
+- Join Our Super Cool Chat Community
+- Benefits of Being in a Community
+- How to Use the Community
+- Success Stories
 
-Feel free to browse through our wide range of informative articles and guides, organized by categories for easy navigation. Whether you are a first-time pet parent or a seasoned animal enthusiast, there's something valuable for everyone.
+### Professional Resources
+- Courses for Dog Care Professionals
+- Free and Paid Learning Opportunities
+- Mentorship Programs
 
-## **A Community of Pet Lovers**
+## How to Use This Portal
 
-Join our thriving community of pet lovers who share their experiences, insights, and tips for providing the best care for our furry family members. Engage with fellow pet parents, ask questions, and contribute to discussions to enhance your knowledge further.
+Explore the topics that interest you by navigating through our well-organized sections. Each section is filled with valuable information, practical tips, and resources to help you ensure the best care for your dog.
 
-## **A Promise of Excellence**
+## Join Our Community
 
-We are committed to maintaining the highest standards of accuracy and reliability in all our educational content. Rest assured that the information you find here is up-to-date and curated by experienced professionals in the field of animal behavior, nutrition, and veterinary care.
+Don't forget to join our chat community, where you can connect with other dog parents, share your experiences, and get advice from experts. Together, we can create a supportive and knowledgeable network for all dog parents.
 
-## **Embark on Your Learning Journey**
+## Our Commitment
 
-Let's embark on this educational journey together, enriching our understanding of our beloved pets and promoting their health and happiness. Our passion for animals drives us to share our expertise with you, and we look forward to empowering you with knowledge that will benefit your furry companions for years to come.
+At OhMyDog, we are committed to helping you become the best dog parent you can be. We continuously update our content to bring you the latest information and best practices in dog care.
 
-**Happy Learning!**
-
-The OhMyDog Educational Portal Team
-
+Thank you for being a part of our community. We are excited to embark on this journey with you and your beloved dogs!

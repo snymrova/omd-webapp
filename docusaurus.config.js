@@ -68,15 +68,10 @@ const config = {
       image: 'img/omd-logo.png',
       navbar: {
         title: 'OhMyDog',
-        hideOnScroll: true,
-        items: [
-          {
-            type: 'docSidebar',
-            sidebarId: 'lessonsSidebar',
-            position: 'left',
-            label: 'Learn',
-          }
-        ],
+        hideOnScroll: true
+      },
+      sidebar: {
+        autoCollapseCategories: true,
       },
       footer: {
         style: 'dark',

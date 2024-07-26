@@ -1,43 +1,64 @@
 ---
 sidebar_position: 2
+id: health-issues
+title: Health Issues
 ---
+
 # Health Issues
 
-![Dog with Books](https://cdn.midjourney.com/8dcd1ad3-d765-4c22-a131-47d783ee19de/0_0.png)
+Welcome to the Health Issues section of the OhMyDog Educational Portal. Here, you will find comprehensive information on a variety of health problems that dogs may encounter. Understanding these issues will help you ensure the best care for your dog.
 
-**Dear Pet Parents and Animal Lovers,**
+## Health Issues
 
-We are delighted to welcome you to our educational portal dedicated to enriching your knowledge about canine behavior, nutrition, and veterinary care. As passionate advocates for the well-being of our four-legged companions, we strive to provide you with comprehensive and reliable information to help you become the best pet parent possible.
+- [Diabetes](/Health-Issues/Diabetes/)
+- [Digestive Issues](/Health-Issues/Digestive%20Issues/)
+  - **Vomiting**
+    - **Yellow Vomit**: This can be a sign of an empty stomach or bile. It's common in the early morning or late at night.
+    - **White Vomit**: Often caused by saliva or foam, indicating an upset stomach.
+  - **Loose Motions**: Loose or watery stools, often caused by dietary indiscretion or infections.
+    - **Management**: Ensure your dog stays hydrated and consult a vet if it persists.
+  - **Constipation**: Difficulty in passing stools or infrequent bowel movements.
+    - **Management**: Increase fiber in the diet and ensure your dog gets plenty of water and exercise.
+  - **Not Eating Food**: A decrease or loss of appetite can be caused by various factors including illness, stress, or changes in diet.
+    - **Management**: Identify and address any underlying causes and consult a vet if the issue persists.
+- [Joints](/Health-Issues/Joints/)
+  - **Description**: Issues such as arthritis or hip dysplasia that affect a dog's mobility.
+  - **Management**: Provide joint supplements, maintain a healthy weight, and ensure moderate exercise.
+- [Kidney Issues](/Health-Issues/Kidney%20Issues/)
+  - **Description**: Problems with kidney function can lead to toxins building up in your dog's body.
+  - **Management**: Regular vet check-ups, a kidney-friendly diet, and plenty of fresh water.
+- [Liver Issues](/Health-Issues/Liver%20Issues/)
+  - **Description**: Liver problems can affect your dog’s ability to detoxify their body and metabolize nutrients.
+  - **Management**: Special diets, medications, and regular vet monitoring.
+- [Not Eating Food](/Health-Issues/Not%20Eating%20Food/)
+  - **Description**: A loss of appetite can be concerning.
+  - **Management**: Ensure the underlying cause is identified and treated.
+- [Obesity](/Health-Issues/Obesity/)
+  - **Description**: Excessive body weight due to an imbalance between calorie intake and energy expenditure.
+  - **Management**: Implement a balanced diet and regular exercise routine for your dog.
+- [Skin Allergies](/Health-Issues/Skin%20Allergies/)
+  - **We are preparing the content for this section. If you have any specific topics you would like us to cover, please let us know!**
+- [Tick Fever](/Health-Issues/Tick%20Fever/)
+  - **Description**: A bacterial infection transmitted by ticks.
+  - **Management**: Tick prevention treatments and immediate vet consultation if symptoms arise.
 
-## **Unlocking the Secrets of Canine Behavior**
+## Suggest a Topic
 
-Understanding your furry friend's behavior is key to nurturing a strong and harmonious bond. Our in-depth articles and guides will delve into the complexities of canine communication, addressing common behavior issues, and equipping you with positive training techniques to foster positive behavior.
+Is there a specific health issue you want more information on? Let us know, and we’ll prepare the content for you.
 
-## **Fueling Your Pet's Health with Proper Nutrition**
+---
 
-A healthy diet plays a vital role in ensuring your pet's overall well-being. Our nutrition-related content will guide you in making informed decisions about your pet's diet, offering insights into balanced meal planning, dietary requirements, and special considerations for different life stages.
+Thank you for visiting the Health Issues section. Ensuring the health and well-being of your dog is our top priority. For any additional questions or support, feel free to reach out to our community or consult your veterinarian.
 
-## **Ensuring Optimal Veterinary Care for Your Beloved Companion**
+---
 
-The health and happiness of your pet are our top priorities. Our veterinary-related content will cover preventive care, common health concerns, understanding symptoms, and when it's essential to seek professional medical attention.
+## Navigation
 
-## **Explore and Learn at Your Own Pace**
-
-Feel free to browse through our wide range of informative articles and guides, organized by categories for easy navigation. Whether you are a first-time pet parent or a seasoned animal enthusiast, there's something valuable for everyone.
-
-## **A Community of Pet Lovers**
-
-Join our thriving community of pet lovers who share their experiences, insights, and tips for providing the best care for our furry family members. Engage with fellow pet parents, ask questions, and contribute to discussions to enhance your knowledge further.
-
-## **A Promise of Excellence**
-
-We are committed to maintaining the highest standards of accuracy and reliability in all our educational content. Rest assured that the information you find here is up-to-date and curated by experienced professionals in the field of animal behavior, nutrition, and veterinary care.
-
-## **Embark on Your Learning Journey**
-
-Let's embark on this educational journey together, enriching our understanding of our beloved pets and promoting their health and happiness. Our passion for animals drives us to share our expertise with you, and we look forward to empowering you with knowledge that will benefit your furry companions for years to come.
-
-**Happy Learning!**
-
-The OhMyDog Educational Portal Team
+- [Welcome](/)
+- [Health Issues](/Health-Issues/)
+- [Behavior Issues](/Behavioral-Issues/)
+- [Pro Belly - Gut Health](/Pro%20Belly%20-%20Gut%20Health/probelly-gut-health)
+- [Personal Care Plan](/Personal%20Care%20Plan/personal-care-plan)
+- [Pack Platform](/pack-platform)
+- [For Professionals](/For%20Professionals/)
 

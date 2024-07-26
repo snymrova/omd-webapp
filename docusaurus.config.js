@@ -5,12 +5,11 @@
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'OhMyDog',
+  title: 'OhMyDog Educational Portal',
   tagline: 'Dogs are cool, Understanding them is supercool',
-  favicon: 'img/favicon.ico',
-
+  favicon: 'favicon.ico',
   // Set the production url of your site here
-  url: 'https://snymrova.github.io',
+  url: 'https://edu.ohmydog.rocks',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -64,6 +63,7 @@ const config = {
         disableSwitch: false,
         respectPrefersColorScheme: false,
       },
+      
       image: 'img/omd-logo.png',
       navbar: {
         title: 'OhMyDog',

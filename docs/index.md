@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 sidebar_label: Welcome
+description: Your go-to resource for everything you need to know about your dog's health and well-being.
 slug: /
 ---
 

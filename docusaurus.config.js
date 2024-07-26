@@ -5,7 +5,7 @@
 const config = {
   title: "OhMyDog Educational Portal",
   tagline: "Dogs are cool, Understanding them is supercool",
-  favicon: "favicon.ico",
+  favicon: "./img/favicon.ico",
   // Set the production url of your site here
   url: "https://edu.ohmydog.rocks",
   // Set the /<baseUrl>/ pathname under which your site is served

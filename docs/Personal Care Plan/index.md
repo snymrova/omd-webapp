@@ -1,6 +1,6 @@
 ---
 sidebar_position: 5
-slug: personal-care-plan
+slug: /personal-care-plan
 id: personal-care-plan
 title: Personal Care Plan
 description: Comprehensive Care for Your Dog's Health and Behavior with Personal Attention from Sunny Luthra

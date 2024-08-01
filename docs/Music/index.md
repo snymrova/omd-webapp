@@ -3,6 +3,7 @@ id: ohmydog-music
 title: OhMyDog Music
 sidebar_position: 8
 sidebar_label: Music
+slug: /music
 ---
 
 # OhMyDog Music

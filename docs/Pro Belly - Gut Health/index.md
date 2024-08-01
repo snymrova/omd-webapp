@@ -2,8 +2,7 @@
 sidebar_position: 4
 id: probelly-gut-health
 title: Pro Belly - Gut Health
-sidebar_label: Pro Belly - Gut Health
-slug: probelly-gut-health
+slug: /probelly-gut-health
 ---
 
 # Pro Belly - Gut Health

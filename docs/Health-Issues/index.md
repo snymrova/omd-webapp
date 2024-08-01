@@ -57,8 +57,8 @@ Thank you for visiting the Health Issues section. Ensuring the health and well-b
 - [Welcome](/)
 - [Health Issues](/Health-Issues/)
 - [Behavior Issues](/Behavioral-Issues/)
-- [Pro Belly - Gut Health](/Pro%20Belly%20-%20Gut%20Health/probelly-gut-health)
-- [Personal Care Plan](/Personal%20Care%20Plan/personal-care-plan)
+- [Pro Belly - Gut Health](/probelly-gut-health)
+- [Personal Care Plan](/personal-care-plan)
 - [Pack Platform](/pack-platform)
 - [For Professionals](/For%20Professionals/)
 

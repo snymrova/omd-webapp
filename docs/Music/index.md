@@ -67,3 +67,6 @@ Discover music that inspires and uplifts:
 We love hearing how our music helps you and your dog. Join our join our [Pack Platform](/pack-platform) to share your experiences, get updates on new tracks, and connect with other dog parents.
 
 ---
+## Checkout our shop
+
+[![Hoodie](https://cdn.shopify.com/s/files/1/0599/6711/1270/files/front-66ac9eecd835a-White_L_Hoodie.jpg?v=1722588915)](https://shop.ohmydog.rocks)

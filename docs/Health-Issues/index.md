@@ -6,6 +6,9 @@ title: Health Issues
 
 # Health Issues
 
+![OhMyDog Rocks Banner](../../static/img/Health-Issues-Cover.jpg)
+
+
 Welcome to the Health Issues section of the OhMyDog Educational Portal. Here, you will find comprehensive information on a variety of health problems that dogs may encounter. Understanding these issues will help you ensure the best care for your dog.
 
 ## Health Issues

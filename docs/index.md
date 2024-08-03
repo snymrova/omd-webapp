@@ -7,7 +7,7 @@ slug: /
 
 # Welcome to the OhMyDog Educational Portal
 
-![OhMyDog Rocks Banner](../static/img/OhMyDog-Educational-Portal-Welcome.png)
+![OhMyDog Rocks Banner](../static/img/OhMyDog-Educational-Portal-Welcome.jpg)
 
 Welcome to the OhMyDog Educational Portal, your go-to resource for everything you need to know about your dog's health and well-being. We understand that being a dog parent is both a joy and a responsibility, and we're here to support you every step of the way.
 
@@ -17,7 +17,7 @@ Our portal is designed to provide you with comprehensive, easy-to-understand inf
 
 ## Topics We Cover
 ### Health Issues
-![OhMyDog Rocks Banner](../static/img/OhMyDog-Educational-Portal-Welcome-Health-Issues.png)
+![OhMyDog Rocks Banner](../static/img/OhMyDog-Educational-Portal-Welcome-Health-Issues.jpg)
 - Digestive Problems (vomiting, loose stool, etc.)
 - Skin Allergies
 - Obesity
@@ -30,12 +30,12 @@ Our portal is designed to provide you with comprehensive, easy-to-understand inf
 - Appetite Issues
 
 ### Behavioral Challenges
-![OhMyDog Rocks Banner](../static/img/OhMyDog-Educational-Portal-Welcome-Behavior-Issues.png)
+![OhMyDog Rocks Banner](../static/img/OhMyDog-Educational-Portal-Welcome-Behavior-Issues.jpg)
 - Puppy Training (biting, pee/poop training, hyperactivity)
 - Adult Dog Behavior (separation anxiety, leash pulling, aggression, etc.)
 
 ### Gut Health with Pro Belly
-![OhMyDog Rocks Banner](../static/img/OhMyDog-Educational-Portal-Welcome-Probelly.png)
+![OhMyDog Rocks Banner](../static/img/OhMyDog-Educational-Portal-Welcome-Probelly.jpg)
 - Importance of Gut Health
 - How Pro Belly Works
 - 90 Days Gut Challenge

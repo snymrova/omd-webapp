@@ -77,12 +77,6 @@ Yes, Pro Belly helps balance the gut flora and improve digestive health.
 
 Yes, daily use of Pro Belly is recommended for optimal results.
 
-## Join Our Community
-
-Join our super cool chat community to connect with other dog parents, share your experiences, and get advice from experts. Together, we can create a supportive and knowledgeable network for all dog parents.
-
-[Join the Community](https://ohmydog.rocks/community)
-
 ## Learn More
 
 To learn more about Pro Belly and purchase the product, visit our [Pro Belly Product Page](https://ohmydog.rocks/product/probelly/).

@@ -4,6 +4,7 @@ title: Skin Allergies in Dogs
 ---
 
 # Skin Allergies in Dogs
+![OhMyDog Rocks Banner](/../static/img/Skin-Cover.jpg)
 
 Skin allergies are a common issue among dogs and can cause significant discomfort. Understanding the causes, symptoms, and treatments for skin allergies can help you manage your dog's condition effectively.
 

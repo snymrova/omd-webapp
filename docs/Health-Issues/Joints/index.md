@@ -4,6 +4,7 @@ title: Joints in Dogs
 ---
 
 # Joints in Dogs
+![OhMyDog Rocks Banner](/../static/img/Joint-Cover.jpg)
 
 Joint health is a crucial aspect of your dog's overall well-being. Joint issues can affect your dog's mobility, comfort, and quality of life. This section provides comprehensive information on common joint problems, their causes, symptoms, and management strategies.
 

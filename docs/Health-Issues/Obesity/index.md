@@ -5,6 +5,8 @@ title: Obesity in Dogs
 
 # Obesity in Dogs
 
+![OhMyDog Rocks Banner](/../static/img/Obesity-Cover.jpg)
+
 ## Understanding Obesity in Dogs
 
 Obesity is a common and preventable health issue in dogs that can lead to serious health complications if not addressed. It occurs when there is an excessive accumulation of body fat, often due to an imbalance between calorie intake and energy expenditure.

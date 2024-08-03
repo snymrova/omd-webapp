@@ -4,6 +4,7 @@ title: Tick Fever in Dogs
 ---
 
 # Tick Fever in Dogs
+![OhMyDog Rocks Banner](/../static/img/Tick-Cover.jpg)
 
 Tick Fever, also known as Canine Ehrlichiosis, is a serious condition caused by tick bites. It's essential for dog parents to understand the symptoms, causes, prevention, and treatment of this disease to ensure their dogs stay healthy and happy.
 

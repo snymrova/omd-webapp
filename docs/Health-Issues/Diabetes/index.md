@@ -5,6 +5,9 @@ title: Diabetes in Dogs
 
 # Diabetes in Dogs
 
+![OhMyDog Rocks Banner](/../static/img/Diabetes-Cover.jpg)
+
+
 ## What is Diabetes?
 
 Diabetes is a chronic condition that affects your dog's ability to regulate blood sugar levels. It occurs when the pancreas does not produce enough insulin or when the body cannot effectively use the insulin it produces. Insulin is essential for converting glucose into energy, and without it, glucose builds up in the blood, leading to high blood sugar levels.

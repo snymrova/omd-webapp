@@ -6,6 +6,7 @@ sidebar_label: Behavioral Issues
 ---
 
 # Behavioral Issues
+![OhMyDog Rocks Banner](../../static/img/Behavior-Cover.jpg)
 
 Understanding and managing behavioral issues in dogs is essential for their well-being and your peace of mind as a dog parent. This section covers a variety of behavioral challenges that dogs may face, along with practical solutions to help you address them effectively.
 

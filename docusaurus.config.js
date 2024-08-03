@@ -87,7 +87,7 @@ const config = {
     ({
       // Replace with your project's social card
       colorMode: {
-        defaultMode: "dark",
+        defaultMode: "light",
         disableSwitch: false,
         respectPrefersColorScheme: false,
       },

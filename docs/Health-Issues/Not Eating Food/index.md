@@ -4,6 +4,7 @@ title: Not Eating Food
 ---
 
 # Not Eating Food
+![OhMyDog Rocks Banner](/../static/img/Not-Eating-Food-Cover.jpg)
 
 When your dog isn't eating, it can be a cause for concern. There are various reasons why a dog might lose their appetite, and it's essential to identify and address the underlying cause to ensure your dog remains healthy and happy.
 

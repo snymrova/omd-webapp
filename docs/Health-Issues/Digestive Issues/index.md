@@ -4,6 +4,7 @@ title: Digestive Issues
 ---
 
 # Digestive Issues in Dogs
+![OhMyDog Rocks Banner](/../static/img/Digestive-Cover.jpg)
 
 Digestive issues are common in dogs and can range from mild discomfort to serious health problems. This section provides an overview of common digestive issues, their symptoms, causes, and management strategies.
 

@@ -4,6 +4,7 @@ title: Kidney Issues in Dogs
 ---
 
 # Kidney Issues in Dogs
+![OhMyDog Rocks Banner](/../static/img/Kidney-Cover.jpg)
 
 Kidney issues are a serious concern for dogs and can significantly affect their overall health and well-being. This section provides comprehensive information on understanding, managing, and preventing kidney issues in your dog.
 

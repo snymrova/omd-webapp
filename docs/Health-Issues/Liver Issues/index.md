@@ -4,6 +4,7 @@ title: Liver Issues
 ---
 
 # Liver Issues in Dogs
+![OhMyDog Rocks Banner](/../static/img/Liver-Cover.jpg)
 
 Liver issues can significantly impact your dog's health and well-being. The liver is a vital organ responsible for various essential functions, including detoxification, metabolism, and the production of vital proteins. Understanding the signs, causes, and management of liver problems can help you ensure your dog receives the best care possible.
 

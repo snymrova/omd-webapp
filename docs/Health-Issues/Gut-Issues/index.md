@@ -4,6 +4,7 @@ title: Gut Issues
 ---
 
 # Unlocking the Power of Gut Health for Your Dog's Allergies, Digestive Issues, and Immunity
+![OhMyDog Rocks Banner](/../static/img/Gut-Cover.jpg)
 
 As dog parents, we strive to keep our beloved companions healthy and happy. However, challenges like allergies, digestive issues, and weak immunity often hinder our efforts. Surprisingly, a common underlying factor connects these problems: gut health. Understanding and improving your dog's gut health can be the key to resolving these issues and ensuring your furry friend's well-being.
 
@@ -35,15 +36,6 @@ Pro Belly works by introducing beneficial bacteria into your dog's digestive sys
 - **Large Dogs (30+ kg):** 2 Scoops per Day
 
 For best results, use Pro Belly consistently for at least 90 days.
-
-## The 90 Days Gut Challenge
-
-The **90 Days Gut Challenge** is designed to transform your dog's gut health through dietary changes and Pro Belly supplementation. By following this challenge, you can help your dog achieve optimal digestive health and overall well-being.
-
-### Steps of the 90 Days Gut Challenge:
-1. **Stop All Packed Treats**: Eliminate processed treats from your dog's diet.
-2. **Meal Frequency**: Feed your dog twice a day if they are over one year old.
-3. **Pro Belly Supplementation**: Add Pro Belly to one meal each day for 90 days.
 
 ## Frequently Asked Questions
 

@@ -12,7 +12,7 @@ Welcome to the OhMyDog Educational Portal Guides section. Here you'll find a col
 
 ## Available Guides
 
-### [Rituals of dogs](./rituals-of-dogs)
+### [Rituals of dogs](./Rituals-of-dogs)
 6-Step Framework for Raising a Confident and Well-Behaved Companion
 
 ### More Guides Coming Soon

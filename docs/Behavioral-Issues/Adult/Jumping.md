@@ -4,6 +4,9 @@ title: Jumping
 
 # Managing Your Dog's Jumping Behavior
 
+![OhMyDog Rocks Banner](../../../static/img/Jumping-Cover.jpg)
+
+
 Do you often find yourself struggling with your dog’s excessive jumping on guests?
 
 Is your dog constantly hyper and excited, making it difficult for you to control their behavior?

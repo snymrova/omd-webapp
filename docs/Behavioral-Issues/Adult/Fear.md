@@ -4,6 +4,9 @@ title: Fear
 
 # Understanding Fear in Dogs
 
+![OhMyDog Rocks Banner](../../../static/img/Fear-Cover.jpg)
+
+
 Most humans give affection when they see their puppy scared or their dogs scared. They either pick the puppy up, or they touch out of sympathy feeling pity, or they baby talk. All of this is done out of compassion, with good intentions, and they do this because they are applying human psychology to a dog.
 
 By human psychology, I mean that if I am scared and you give me affection, I can rationalize the whole thing and realize that I am receiving affection so that I can come out of fear. But dogs are different; they cannot rationalize this, they cannot understand that they are receiving affection to help them overcome the fear.

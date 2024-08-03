@@ -6,6 +6,9 @@ sidebar_label: Puppy Issues
 
 # Puppy Issues
 
+![OhMyDog Rocks Banner](../../../static/img/Puppy-Issues-Cover.jpg)
+
+
 Welcome to the Puppy Issues section of the OhMyDog Educational Portal. Here, we address common challenges faced by dog parents with puppies and provide practical solutions and advice.
 
 ## Common Puppy Issues

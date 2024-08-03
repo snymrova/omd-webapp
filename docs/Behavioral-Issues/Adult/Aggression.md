@@ -5,6 +5,9 @@ title: Aggression
 
 # Understanding Aggression in Dogs
 
+![OhMyDog Rocks Banner](../../../static/img/Aggression-Cover.jpg)
+
+
 **AGGRESSION** is not even an issue but it is a symptom of dogs' needs not being fulfilled. The reason for needs not being fulfilled is because most humans don’t know about the needs of species dogs. They think by giving food, shelter, a good bed, toys, and treats they are fulfilling their dogs, but that is far from the truth. To really fulfill your dog, you must understand how their mind works. You must learn dog psychology.
 
 Male humans behave with dogs using male psychology, female humans behave using female psychology, this creates an identity crisis in the dog which leads to many behavioral issues, and if you fail to address them then it leads to aggression.

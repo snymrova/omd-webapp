@@ -18,8 +18,10 @@ Welcome to the **OhMyDog Educational Portal** changelog. Here you can find infor
 - **Guide Section**: Added Guide Section
 - **Rituals of dogs**: Added rituals of dogs in the guide
 
+### July 2024
+
 #### [Version 1.0.0]
-- **Shir Ganesha**: We launched the first version of the education portal
+- **Shir Ganesha**: We launched the first version of the educational portal
 
 ---
 

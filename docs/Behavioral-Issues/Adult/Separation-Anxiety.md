@@ -5,6 +5,9 @@ title: Separation Anxiety
 
 ## Separation Anxiety in Dogs
 
+![OhMyDog Rocks Banner](../../../static/img/Seperation-Anxiety-Cover.jpg)
+
+
 Separation anxiety is a very common behavioral issue that exists in today’s domesticated dogs. The chances of your dog developing this issue or already suffering from this issue are high.
 
 The dog is not the only one that is suffering because of this issue but family and sometimes neighbors too do suffer disturbance because of this issue in dogs. The dogs who have separation anxiety show symptoms by destroying the house, barking, howling, or scratching the floor when left alone, or when one of the pack members leaves the house.

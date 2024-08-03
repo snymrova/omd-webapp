@@ -5,6 +5,9 @@ sidebar_label: Destructive Behavior
 
 # Understanding and Managing Destructive Behavior in Dogs
 
+![OhMyDog Rocks Banner](../../../static/img/Destructive-Behaviour-Cover.jpg)
+
+
 As a dog expert, I hear from many dog parents who are experiencing issues with their dogs becoming destructive. They chew up furniture, shoes, and other household items. They bark incessantly, run around wildly, and may even become aggressive towards people or other animals.
 
 But the truth is that the problem is not with the dog. Rather, it is with the lack of structure and stimulation in their daily lives. Dogs are highly intelligent animals with a need for mental and physical stimulation. Without proper outlets for their energy, they can become bored, frustrated, and even anxious, leading to destructive behavior.

@@ -5,6 +5,9 @@ title: Adult Issues
 
 # Adult Issues
 
+![OhMyDog Rocks Banner](../../../static/img/Adult-Cover.jpg)
+
+
 As dog parents, understanding and addressing behavioral issues in adult dogs is crucial to ensuring their well-being and maintaining a harmonious home environment. Here, you'll find comprehensive information on common behavioral challenges faced by adult dogs and effective strategies to manage them.
 
 ## Topics Covered

@@ -5,6 +5,9 @@ title: Shy and Insecure
 
 # Shy and Insecure Dog
 
+![OhMyDog Rocks Banner](../../../static/img/Shy-Insecure-Cover.jpg)
+
+
 Have you ever noticed some dogs that seem a bit more timid or unsure of themselves?
 
 Just like people, dogs can also experience feelings of sensitivity and insecurity.

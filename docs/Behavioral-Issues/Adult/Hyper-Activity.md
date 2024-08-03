@@ -8,6 +8,9 @@ sidebar_label: Hyperactivity
 
 ## Understanding Hyperactivity
 
+![OhMyDog Rocks Banner](../../../static/img/Hyperactivity-Cover.jpg)
+
+
 How do you behave when your puppy comes running towards you and starts jumping on you?
 
 Most humans get excited, they pick the puppy up, they give affection, they baby talk, they nurture the excitement in the puppy.

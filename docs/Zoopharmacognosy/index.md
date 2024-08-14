@@ -5,6 +5,9 @@ title: Zoopharmacognosy
 ---
 # Zoopharmacognosy: How Dogs Use Natural Remedies for Self-Healing
 
+![OhMyDog Rocks Banner](../../static/img/zoopharma.jpg)
+
+
 ## Introduction to Zoopharmacognosy
 
 Zoopharmacognosy is a fascinating field of study that explores how animals, including dogs, instinctively use natural substances like plants, minerals, and essential oils to self-medicate. The term itself is derived from Greek roots: "zoo" meaning animal, "pharma" meaning drug, and "gnosy" meaning knowing. Essentially, it’s the science of how animals utilize natural remedies to maintain or regain health.

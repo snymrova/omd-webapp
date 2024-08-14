@@ -1,13 +1,13 @@
 ---
-title: Shivani Ji
+title: Shivani Kale
 ---
-# Shivani Ji: Embracing Natural Healing for Pets
+# Shivani Kale: Embracing Natural Healing for Pets
 
 ## Introduction
 
-Shivani Ji has always been deeply connected to natural healing practices. Growing up surrounded by these traditions, it was only natural that she would seek the same for her beloved dogs, Walnut and Donut—affectionately known as "The Nutpack."
+Shivani Kale has always been deeply connected to natural healing practices. Growing up surrounded by these traditions, it was only natural that she would seek the same for her beloved dogs, Walnut and Donut—affectionately known as "The Nutpack."
 
-![Shivani Ji](../../../static/img/shivaniji.jpg)
+![Shivani Kale](../../../static/img/shivaniji.jpg)
 
 ## A Journey into Nature's Healing Powers
 
@@ -25,6 +25,6 @@ With the launch of [nutkit.co.in](http://nutkit.co.in), Shivani aspires to enlig
 
 ## Conclusion
 
-Shivani Ji's journey from observing traditional healing methods in a small Goan village to becoming an expert in Applied Zoopharmacognosy is a testament to her commitment to natural pet care. Through NUTKIT, she continues to share the magic of botanicals, empowering pet parents to trust in their animals' instincts and the healing power of nature.
+Shivani Kale's journey from observing traditional healing methods in a small Goan village to becoming an expert in Applied Zoopharmacognosy is a testament to her commitment to natural pet care. Through NUTKIT, she continues to share the magic of botanicals, empowering pet parents to trust in their animals' instincts and the healing power of nature.
 
 Visit [nutkit.co.in](http://nutkit.co.in) to learn more about Shivani's work and discover how you can create a natural healing space for your pets.

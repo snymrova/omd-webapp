@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 4
 id: guides
 title: Guides
 sidebar_label: Guides

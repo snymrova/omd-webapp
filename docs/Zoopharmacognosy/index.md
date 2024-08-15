@@ -28,7 +28,7 @@ Applied zoopharmacognosy takes this concept further by allowing dogs to choose f
 
 ## Practical Application in Domestic Settings
 
-While zoopharmacognosy may seem complex, it can be practiced at home with the guidance of a professional or through careful research. Pet owners can offer their dogs a variety of safe, dog-friendly natural substances and observe their reactions. It’s crucial, however, to do this under the supervision of a pet health expert to ensure safety, especially when dealing with potent essential oils or herbs.
+While zoopharmacognosy may seem complex, it can be practiced at home with the guidance of a professional or through careful research. Pet owners can offer their dogs a variety of safe, dog-friendly natural substances and observe their reactions. It’s crucial, however, to do this under the supervision of a certified Aromatherapist or Zoopharmacognosy practioner to ensure safety, especially when dealing with potent essential oils or herbs.
 
 ## Conclusion
 

@@ -10,6 +10,12 @@ Welcome to the **OhMyDog Educational Portal** changelog. Here you can find infor
 
 ### August 2024
 
+#### [Version 1.2.0]
+- **Zoopharmacognosy Section**: Added this section
+- **Zoopharmacognosy Expert Page**: Added shivani kale to the expert page
+- **Bcs, Obesity, Sepration**: Added guides on these topics
+
+
 #### [Version 1.1.0]
 - **Changelog Page Added**: Created a dedicated changelog page to keep track of all updates and improvements.
 - **Cover Image**: Added Cover Images to Behavior, Health and other sections

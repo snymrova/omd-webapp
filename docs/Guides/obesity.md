@@ -4,6 +4,9 @@ title: Obesity
 ## Healthy, Happy Dogs: 
 ### An Easy-to-Follow, Simplistic Guide to Prevent and Reverse Obesity in Dogs
 
+![Obesity Guide](../../static/img/obesity-guide-cover.jpg)
+
+
 ### What This Guide Is About (and What It’s Not About)
 Hello, my name is Sunny Luthra...
 

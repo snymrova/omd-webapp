@@ -1,5 +1,8 @@
 ---
-title: Separation Anxiety
+title: Understanding Separation Anxiety in Dogs
+description: A comprehensive guide to recognizing, preventing, and rehabilitating separation anxiety in dogs, ensuring a happier and more confident pet.
+image: ../../static/img/Separation-anxiety-guide-cover.jpg
+keywords: [separation anxiety, dog rehabilitation, dog anxiety, preventing dog anxiety, dog behavior, training techniques]
 ---
 # Separation Anxiety: The Ultimate Guide to Separation Anxiety Rehabilitation and Prevention for Dogs
 

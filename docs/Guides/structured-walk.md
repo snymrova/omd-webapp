@@ -57,6 +57,34 @@ Structured walks are more than just exercise—they are an essential part of you
 - **Stay Calm and Consistent:** Your dog takes cues from your behavior. If you remain calm and assertive during the walks, your dog is more likely to mirror that behavior.
 - **Be Patient:** It might take a few days for your dog to adjust to this new routine. Consistency is
 
+## 6 Structured Walk Ideas for Your Dog
+
+### 1. **Interval Walking**
+   - **Structure:** Walk at a brisk pace for 5 minutes, then slow down for 2 minutes. Repeat this cycle for the entire duration of the walk.
+   - **Purpose:** This variation helps in keeping your dog engaged and focused while providing a mix of physical exertion and recovery.
+
+### 2. **Obedience Walk**
+   - **Structure:** During the walk, every 5-10 minutes, stop and ask your dog to perform basic obedience commands like "sit," "stay," or "heel." Continue walking only after the command is successfully completed.
+   - **Purpose:** Reinforces obedience training in a real-world environment, helping your dog stay focused on you during the walk.
+
+### 3. **Exploration and Focus**
+   - **Structure:** Allow your dog to explore a designated area (like a park or trail) for 5 minutes, then call them back to walk by your side for 10 minutes. Repeat this pattern throughout the walk.
+   - **Purpose:** Balances your dog’s natural curiosity with the discipline of walking calmly by your side.
+
+### 4. **Pace Variation Walk**
+   - **Structure:** Start the walk at a normal pace, then increase to a brisk walk for 10 minutes, slow down to a casual pace for 5 minutes, and then repeat. Include a few short jogs if possible.
+   - **Purpose:** Varies the intensity of the walk, helping to build your dog’s stamina while also keeping the walk interesting.
+
+### 5. **Directional Change Walk**
+   - **Structure:** Every few minutes, change direction abruptly and encourage your dog to follow your lead without pulling or lagging behind. Use commands like "this way" or "turn" to signal the change.
+   - **Purpose:** Helps improve your dog's attentiveness and responsiveness to your cues, reducing the likelihood of pulling on the leash.
+
+### 6. **Distance Markers Walk**
+   - **Structure:** Pick landmarks (like trees, benches, or lampposts) and walk briskly to one, then slow down as you approach the next one. Use different markers throughout the walk to change the pace frequently.
+   - **Purpose:** Adds variety to the walk and teaches your dog to adjust their pace in response to your movement.
+
+These structured walk ideas can be easily adapted to your dog's needs and environment, providing mental and physical stimulation while reinforcing good behavior.
+
 ---
 
 ## What Next? (Get Personal Care Plan)

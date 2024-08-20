@@ -52,11 +52,6 @@ Structured walks are more than just exercise—they are an essential part of you
 4. **Supports Rest and Recovery:**
    - Ending the walk with a period of calmness and a relaxing activity like chewing on a natural bone allows your dog to transition smoothly from physical exertion to rest. This not only helps in calming them down but also encourages a healthy routine of activity followed by relaxation.
 
-## Tips for Success
-
-- **Stay Calm and Consistent:** Your dog takes cues from your behavior. If you remain calm and assertive during the walks, your dog is more likely to mirror that behavior.
-- **Be Patient:** It might take a few days for your dog to adjust to this new routine. Consistency is
-
 ## 6 Structured Walk Ideas for Your Dog
 
 ### 1. **Interval Walking**
@@ -84,6 +79,11 @@ Structured walks are more than just exercise—they are an essential part of you
    - **Purpose:** Adds variety to the walk and teaches your dog to adjust their pace in response to your movement.
 
 These structured walk ideas can be easily adapted to your dog's needs and environment, providing mental and physical stimulation while reinforcing good behavior.
+
+## Tips for Success
+
+- **Stay Calm and Consistent:** Your dog takes cues from your behavior. If you remain calm and assertive during the walks, your dog is more likely to mirror that behavior.
+- **Be Patient:** It might take a few days for your dog to adjust to this new routine. Consistency is
 
 ---
 
